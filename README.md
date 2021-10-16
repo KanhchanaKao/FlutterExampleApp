@@ -1,4 +1,4 @@
-# efind_mvp
+# flutterApp
 
 A new Flutter project.
 
